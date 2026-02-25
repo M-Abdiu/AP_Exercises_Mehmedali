@@ -1,0 +1,31 @@
+{
+  "alarms": [
+    {
+      "enabled": true,
+      "id": "6d3dfaa7-dbc1-4ab9-ab42-447bc2b613b6",
+      "label": "Test",
+      "last_fired_utc": null,
+      "recurrence": "once",
+      "status": "scheduled",
+      "time_of_day": "23:59:00"
+    }
+  ],
+  "preferences": {
+    "time_format": "24h"
+  },
+  "reminders": [
+    {
+      "enabled": true,
+      "fired_utc": null,
+      "id": "2be85759-8718-4cb6-a54a-31680f4c028a",
+      "message": "Test reminder",
+      "scheduled_utc": "2026-02-23T22:59:00+00:00",
+      "source_tz": "Europe/Berlin",
+      "status": "scheduled"
+    }
+  ],
+  "schema_version": 1,
+  "world_clock_tzs": [
+    "Europe/Berlin"
+  ]
+}

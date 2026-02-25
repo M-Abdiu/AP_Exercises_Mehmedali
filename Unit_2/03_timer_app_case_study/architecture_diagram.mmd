@@ -1,0 +1,12 @@
+flowchart LR
+  UI["UI Adapter<br/>(CLI / future GUI)"] -->|commands| APP[Application Services]
+  APP -->|CRUD| REPO[Repositories]
+  REPO --> STORE[(JSON Storage)]
+
+  APP --> SCHED[Scheduler Runtime]
+  SCHED -->|now/monotonic| CLOCK[Clock Providers]
+  SCHED -->|trigger| NOTIF[Notification Sink]
+
+  APP --> DOMAIN[Domain Model & Time Rules]
+  SCHED --> DOMAIN
+  REPO --> DOMAIN

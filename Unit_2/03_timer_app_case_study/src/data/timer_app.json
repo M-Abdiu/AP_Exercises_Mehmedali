@@ -1,0 +1,30 @@
+{
+  "alarms": [
+    {
+      "enabled": true,
+      "id": "f0cff951-cc4d-49b6-9b94-7fbb24ce35f6",
+      "label": "Wake up",
+      "last_fired_utc": null,
+      "recurrence": "daily",
+      "status": "scheduled",
+      "time_of_day": "10:32:00"
+    },
+    {
+      "enabled": true,
+      "id": "b99eb54a-95bb-44b0-a81e-6111e04bd651",
+      "label": "Wake up",
+      "last_fired_utc": "2026-02-24T09:33:00.001670+00:00",
+      "recurrence": "daily",
+      "status": "scheduled",
+      "time_of_day": "10:33:00"
+    }
+  ],
+  "preferences": {
+    "time_format": "24h"
+  },
+  "reminders": [],
+  "schema_version": 1,
+  "world_clock_tzs": [
+    "Europe/Berlin"
+  ]
+}
