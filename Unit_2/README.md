@@ -20,7 +20,7 @@
 
 - **Agentic Software Engineering**
   - Process
-  - Case Example from Requirements to Implementationand Testing Agent Orchestration
+  - Case Example from Requirements to Implementation and Testing
   - Agent Orchestration
 
 - **Outlook**
