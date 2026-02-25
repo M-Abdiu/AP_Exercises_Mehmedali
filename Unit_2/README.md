@@ -1,28 +1,30 @@
-# 🤖 Programming with AI (Part 1)
+# 🤖 Programming with AI
 
 ## 📌 Topics Covered
 
-- **Coding with AI**
-  - Using AI tools to assist software development
-  
-- **Developer Tools**
-  - VS Code
-  - Cursor
-  - Google AI Studio
+- **AI and LLMs**
+  - AI Adoption and Sentiment
+  - History
+  - LLM Capabilities
+  - LLM Operations
+  - Context
+  - Prompt Engineering
 
-- **AI Agents**
-  - VS Code agent mode
+- **AI Development in VS Code**
+  - Setup: GitHub, VS Code
+  - Code Suggestions
+  - Code Q&A
+  - Agents
+  - Code Review
+  - Code Generation
 
-- **Requirements Elicitation with AI**
-  - User stories
-  - Acceptance criteria
+- **Agentic Software Engineering**
+  - Process
+  - Case Example from Requirements to Implementationand Testing Agent Orchestration
+  - Agent Orchestration
 
-- **Opportunities & Risks**
-  - Benefits and limitations of AI in development
-
-- **Critical Thinking with AI**
-  - Evaluating and validating AI outputs
-
-- **Security, Privacy & IP Risks**
-  - Data protection
-  - Intellectual property considerations
+- **Outlook**
+  - AI Development Tools
+  - APIs and Local AI
+  - Data Protection
+  - Critical Discussio
