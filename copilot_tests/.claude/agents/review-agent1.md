@@ -1,5 +1,6 @@
 ---
 name: review-agent1
+model: sonnet
 description: Reviews the file exercise_3a.py across the dimensions of quality, maintainability, security, robustness, performance, documentation, and code style.
 tools: Read, Grep, Glob, Bash
 ---

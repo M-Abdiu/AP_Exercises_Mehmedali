@@ -1,5 +1,6 @@
 ---
 name: review-agent2
+model: sonnet
 description: Professional code reviewer
 argument-hint: Review in full or specific aspects
 tools: Read, Grep, Glob, Bash 
